@@ -1,3 +1,4 @@
+// Cambio forzado para deploy
 export default function ComparadorPage() {
     return (
       <div className="p-8">
