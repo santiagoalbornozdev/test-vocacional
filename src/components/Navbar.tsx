@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="sticky top-0 z-50 backdrop-blur-md bg-white/70 border-b border-gray-200 px-6 py-3 flex items-center justify-between">
       {/* Logo */}
-      <Link href="/" className="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+      <Link href="/" className="text-xl font-bold bg-linear-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
         TestVocacional
       </Link>
 
